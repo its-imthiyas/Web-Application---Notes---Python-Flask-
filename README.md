@@ -73,7 +73,8 @@ This repository contains the source code for a Flask-based web application desig
 
 ## Image Representation
 Here is a image showing the application in action:
-[!(https://github.com/its-imthiyas/Web-Application-Notes-Authentication--Python-Flask/blob/main/WebPage%20Screenshot.jpg)]
+<p align="center">
+<img width="471" alt="image" src=https://github.com/its-imthiyas/Web-Application-Notes-Authentication--Python-Flask/blob/main/WebPage%20Screenshot.jpg>
 
 ## Future Improvements
 - Add multi-language support.
