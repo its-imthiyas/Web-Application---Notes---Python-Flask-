@@ -72,20 +72,6 @@ This repository contains the source code for a Flask-based web application desig
    - Create, edit, and delete personal notes via a user-friendly interface.
 
 
-## Folder Structure
-```
-.
-├── app/                  # Application source code
-│   ├── templates/        # HTML templates
-│   ├── static/           # CSS, JavaScript, images
-│   ├── models.py         # Database models
-│   ├── routes.py         # Application routes
-│   └── ...
-├── migrations/           # Database migration files
-├── requirements.txt      # Python dependencies
-└── README.md             # Project documentation
-```
-
 ## Future Improvements
 - Add multi-language support.
 - Implement advanced search and filtering for notes.
