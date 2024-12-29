@@ -2,6 +2,11 @@
 
 This repository contains the source code for a Flask-based web application designed for secure user authentication and efficient notes management. The application demonstrates full-stack development with robust backend security and user-friendly features.
 
+## Image Representation
+Here is a image showing the application in action:
+<p align="center">
+<img width="800" alt="image" src=https://github.com/its-imthiyas/Web-Application-Notes-Authentication--Python-Flask/blob/main/WebPage%20Screenshot.jpg>
+
 ## Features
 
 ### Authentication
@@ -70,11 +75,6 @@ This repository contains the source code for a Flask-based web application desig
 
 3. **Notes Management**:
    - Create, edit, and delete personal notes via a user-friendly interface.
-
-## Image Representation
-Here is a image showing the application in action:
-<p align="center">
-<img width="471" alt="image" src=https://github.com/its-imthiyas/Web-Application-Notes-Authentication--Python-Flask/blob/main/WebPage%20Screenshot.jpg>
 
 ## Future Improvements
 - Add multi-language support.
