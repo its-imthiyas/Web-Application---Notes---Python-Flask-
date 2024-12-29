@@ -71,6 +71,9 @@ This repository contains the source code for a Flask-based web application desig
 3. **Notes Management**:
    - Create, edit, and delete personal notes via a user-friendly interface.
 
+## Image Representation
+Here is a image showing the application in action:
+[!(https://github.com/its-imthiyas/Web-Application-Notes-Authentication--Python-Flask/blob/main/WebPage%20Screenshot.jpg)]
 
 ## Future Improvements
 - Add multi-language support.
